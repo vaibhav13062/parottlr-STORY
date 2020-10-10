@@ -1,0 +1,6 @@
+framework module Pods_parottlr_STORYTests {
+  umbrella header "Pods-parottlr STORYTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
